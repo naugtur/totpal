@@ -1,2 +1,0 @@
-# totpal
-Begin app
